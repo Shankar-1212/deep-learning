@@ -1,6 +1,6 @@
 # Organ Segmentation Project
 ----
-This project focuses on organ segmentation using the MONAI framework. By using "wholeBody_ct_segmentation" bundle from MONAI.
+This project focuses on organ segmentation using the MONAI framework by using "wholeBody_ct_segmentation" bundle from MONAI.
 
 **Bundle: "wholeBody_ct_segmentation"**
 
